@@ -17,6 +17,24 @@ I used data visualizations to extract crucial insights into the organization’s
 
 ![HR - Employee Turnover Analysis 1](https://github.com/user-attachments/assets/99b17988-73dd-4141-8b96-595906f599f7)
 
+![HR - Employee Turnover Analysis 2](https://github.com/user-attachments/assets/d16ab675-a1ea-4787-b08f-0284339d1ef7)
 
+![HR - Employee Wellnesss Analysis](https://github.com/user-attachments/assets/2266a35b-9227-4024-ac2e-29094d4c0f26)
 
+### Insights
 
+Here’s a comprehensive list of the insights derived from the analysis, providing a roadmap for informed decision-making and targeted strategies to enhance employee retention and foster a thriving work environment.
+
+1. The company’s overall attrition rate stands at 16%.
+
+2. The attrition rate among male employees was the highest at 63%.
+
+3. Single employees experienced the highest attrition.
+
+4. Employees living nearby displayed the highest attrition rates.
+
+5. Entry-level employees faced the highest attrition, while senior employees had the lowest turnover.
+
+6. Employees with low-performance ratings had the highest attrition rate, reaching 84%.
+
+7. The research and development department recorded the highest attrition rate among the three departments at 56.12%.
