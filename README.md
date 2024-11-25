@@ -14,3 +14,9 @@ The dataset used for the HR attrition analysis contains 1470 rows and 35 columns
 I used data visualizations to extract crucial insights into the organization’s attrition rates. These findings serve as a valuable resource for employers, allowing them to pinpoint the reasons behind employee turnover. By identifying these factors, organizations can implement necessary adjustments to work practices and policies, ensuring the retention of their top-performing employees.
 
 ![HR - Employment Demographics](https://github.com/user-attachments/assets/0fe7b241-6687-4f9d-bd5e-3ed4ad5c0e60)
+
+![HR - Employee Turnover Analysis 1](https://github.com/user-attachments/assets/99b17988-73dd-4141-8b96-595906f599f7)
+
+
+
+
