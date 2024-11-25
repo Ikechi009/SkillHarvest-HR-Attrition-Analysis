@@ -38,3 +38,37 @@ Here’s a comprehensive list of the insights derived from the analysis, providi
 6. Employees with low-performance ratings had the highest attrition rate, reaching 84%.
 
 7. The research and development department recorded the highest attrition rate among the three departments at 56.12%.
+
+8. Employees with the shortest tenure in their current roles had the highest attrition.
+
+9. Laboratory technicians, sales executives, and research scientists held the job roles with the highest attrition rates.
+
+10. Job roles with the highest attrition, such as laboratory technician (3,237), sales executive (6,924), and research scientist (3,239), had significantly lower average monthly incomes compared to roles with the least attrition, such as Manager (17,181) and Research Director (16,033).
+
+11. Over time workers experienced a higher attrition rate.
+
+12. Employees aged 26–35 had the highest attrition, while those aged 56 plus had the least turnover.
+
+### Recommendations
+
+1. Targeted Retention Strategies: Given the higher attrition among male employees, single individuals, and those living nearby, consider implementing targeted retention strategies for these specific demographics. Explore initiatives that address their unique needs and preferences, aiming to improve overall satisfaction and commitment.
+
+2. Career Development for Entry-Level Employees: As entry-level employees exhibit higher attrition rates, focus on enhancing career development programs and mentorship opportunities for this group. Providing a clear growth path can contribute to greater job satisfaction and loyalty.
+
+3. Performance Improvement Programs: With employees holding low-performance ratings having the highest attrition, consider implementing performance improvement programs. Identify the root causes of underperformance and provide support, training, or resources to help employees meet expectations.
+
+4. Departmental Engagement Initiatives: The research and development department experiences significant attrition. Explore targeted engagement initiatives within this department, such as professional development opportunities, team-building activities, and recognition programs to enhance employee satisfaction and retention.
+
+5. Tenure-Based Support Programs: Recognizing that employees with shorter tenures have higher attrition, consider introducing support programs tailored to individuals in the early stages of their roles. This may involve mentorship, onboarding improvements, or initiatives to integrate them into the organizational culture more effectively.
+
+6. Compensation and Role Evaluation: Job roles with the highest attrition correlate with lower average monthly incomes. Evaluate the compensation structure for these roles, ensuring it aligns with industry standards. Additionally, assess whether the responsibilities and expectations associated with these positions match the compensation offered.
+
+7. Overtime Management: Acknowledge the higher attrition among employees working overtime. Assess the workload, explore ways to manage and distribute tasks efficiently, and consider introducing policies to mitigate excessive overtime, fostering a healthier work-life balance.
+
+8. Age-Specific Engagement Programs: Recognizing higher attrition among employees aged 26–35, tailor engagement programs to address the specific needs and expectations of this age group. Consider benefits, flexible work arrangements, or professional development opportunities that resonate with their career and life stages.
+
+9. Regular Employee Surveys: Implement regular employee satisfaction surveys to gauge ongoing sentiments and identify evolving areas of concern. This proactive approach allows for continuous improvement and timely adjustments to retain valuable talent.
+
+10. Communication and Transparency: Enhance communication and transparency regarding the company’s overall attrition rate and average monthly income. This fosters trust and keeps employees informed, potentially positively impacting their commitment to the organization.
+
+y incorporating these recommendations, the organization can proactively address the identified challenges and create a more conducive environment for employee satisfaction, engagement, and long-term retention.
